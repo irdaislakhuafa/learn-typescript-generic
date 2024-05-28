@@ -5,7 +5,6 @@
       "ESNext",
       "DOM"
     ],
-    "outDir": "./dist",
     "target": "ESNext",
     "module": "ESNext",
     "moduleDetection": "force",
